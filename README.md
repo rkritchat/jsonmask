@@ -2,7 +2,7 @@ Jsonmask use for mask sensitive data from json format
 
 ## Installation
 ```shell
-go get -u github.com/rkritchat/jsonmask
+go get github.com/rkritchat/jsonmask
 
 ```
 
